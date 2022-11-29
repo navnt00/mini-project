@@ -1,0 +1,20 @@
+body{
+    background-color: darkgoldenrod;
+}
+h1{
+    background-color: aqua;
+}
+p{
+
+background-color: chartreuse;
+}
+header{
+    background-color: darkgreen;
+   height:30px;
+}
+footer{
+    background-color: orangered;
+}
+img{
+    border-radius: 50%;
+}
